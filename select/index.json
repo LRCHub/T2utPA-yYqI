@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "僕らの物語",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-17T01:11:31.072898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らの物語",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_僕らの物語_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕らの物語",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_僕らの物語_GReeeeN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らの物語",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_僕らの物語_GReeeeN.txt"
+    }
+  ]
+}
